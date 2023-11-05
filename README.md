@@ -7,6 +7,15 @@ This is a simple Twitter-like app created using Flask for the backend and Vue fo
 - Liking Tweets: Users can like tweets posted by others.
 - Leaderboard: A leaderboard displays the top users by the number of tweets posted.
 - Admin Login: Administrators can manipulate tweets, delete tweets, and delete user accounts.
+
+# User Flowchart
+![Teks paragraf Anda (1)](https://github.com/frhnkl/Web-Arc-twttr-app/assets/125452431/93494521-2db0-4a6b-bf21-3acbf566b034)
+This is the User flowchart. The user will start on the login page. if a User doesn't have an account, they can click on the registration page and once succeed in making an account, the user can go back to the login page and log in to their account. once on the home page, users can interact with each other by liking, tweeting, and uploading pictures. Users can also see leaderboards of who makes the most tweets. after interacting, user can log out of their account
+# Admin Flowchart
+![Teks paragraf Anda (2)](https://github.com/frhnkl/Web-Arc-twttr-app/assets/125452431/349d0f78-7ad4-4d88-8d28-15e65f15e45b)
+
+For admin, Admin will be presented with a login page for admin. if the admin doesn't have an admin account, they can register and choose what role they want to have. after logging in, an admin can manipulate users and tweets by modifying or deleting them.
+
 # Requirements and Technology Used
 ### backend
 - Python
